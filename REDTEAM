@@ -1,0 +1,150 @@
+                                                                        -RED TEAM ENGAGEMENTS-
+Kunci keberhasilan sebuah engagement adalah perencanaan dan komunikasi yang terkoordinasi dengan baik di antara semua pihak yang terlibat. Ruang ini akan fokus pada berbagai komponen dari sebuah engagement red team serta perencanaan dan dokumentasi kampanye untuk sebuah engagement red team.
+
+Engagement red team hadir dalam berbagai bentuk, termasuk:
+
+    Latihan meja
+    Emulasi musuh
+    Penilaian fisik
+
+Tujuan Pembelajaran
+
+    Memahami komponen dan fungsi dari sebuah engagement red team.
+    Belajar bagaimana merencanakan engagement dengan tepat berdasarkan kebutuhan, sumber daya yang tersedia, dan TTP.
+    Memahami bagaimana menulis dokumentasi engagement sesuai dengan tujuan klien.
+
+Ruang ini tidak memerlukan informasi atau pengetahuan prasyarat.
+
+*Defining Scope and Objectives*	
+*Rules of Engagements*
+*Campaign Planning*
+*Engagement Documentation*
+*Concept of Operations* 
+*Resource plan*
+*Mission Plan*
+*Conclusion*
+Memahami Komponen Engagement Red Team
+Gambaran Umum
+
+Komponen-komponen yang Anda sebutkan merupakan blok bangunan penting untuk keberhasilan engagement red team. Mereka menguraikan fase perencanaan, pelaksanaan, dan dokumentasi dari sebuah simulasi serangan.
+Penjelasan Detail
+Mendefinisikan Lingkup dan Tujuan
+
+Fase awal ini mengklarifikasi batasan dan tujuan dari engagement. Ini melibatkan:
+
+    Mengidentifikasi sistem target, jaringan, atau data.
+    Mendefinisikan profil penyerang (misalnya, negara-bangsa, kelompok kriminal).
+    Menetapkan tujuan yang jelas (misalnya, eksfiltrasi data, kompromi sistem).
+
+Aturan Keterlibatan (ROE)
+
+ROE menguraikan tindakan yang diizinkan dan dilarang selama engagement. Ini memastikan batas etika dan hukum dipertahankan sambil memaksimalkan efektivitas latihan.
+Perencanaan Kampanye
+
+Ini melibatkan pengembangan strategi komprehensif untuk engagement, termasuk:
+
+    Mengidentifikasi vektor serangan potensial.
+    Mengembangkan metodologi serangan.
+    Membuat garis waktu dan tonggak.
+    Mendistribusikan sumber daya.
+
+Dokumentasi Engagement
+
+Dokumentasi yang menyeluruh sangat penting untuk menangkap proses engagement, temuan, dan pelajaran yang dipelajari. Ini mencakup:
+
+    Rencana engagement.
+    Laporan pasca tindakan.
+    Penilaian kerentanan.
+    Detail pengembangan eksploit.
+
+Konsep Operasi (CONOP)
+
+CONOP memberikan gambaran tingkat tinggi tentang engagement, termasuk:
+
+    Tujuan keseluruhan.
+    Kegiatan utama.
+    Hasil yang diharapkan.
+    Struktur komando dan kontrol.
+
+Rencana Sumber Daya
+
+Ini menguraikan personel, alat, dan infrastruktur yang diperlukan untuk engagement. Ini memastikan sumber daya yang cukup tersedia untuk mencapai tujuan.
+Rencana Misi
+
+Rencana misi merinci tugas spesifik, garis waktu, dan tanggung jawab untuk setiap fase engagement. Ini memberikan tingkat perencanaan granular untuk pelaksanaan.
+Kesimpulan
+
+Kesimpulan merangkum hasil engagement, pelajaran yang dipelajari, dan rekomendasi untuk perbaikan. Ini memberikan wawasan berharga untuk engagement masa depan dan peningkatan keamanan organisasi.
+Interkoneksi
+
+Komponen-komponen ini saling terkait dan bersifat iteratif. Misalnya, lingkup dan tujuan mempengaruhi ROE, yang pada gilirannya membentuk perencanaan kampanye. Rencana misi berasal dari CONOP dan rencana sumber daya. Dokumentasi yang efektif sangat penting dalam seluruh proses.
+
+Dengan mengelola komponen-komponen ini secara efektif, tim red dapat melakukan simulasi yang realistis dan berharga untuk memperkuat postur keamanan organisasi.
+
+Memilih Skenario
+
+Untuk membuat diskusi ini lebih konkret, mari kita pertimbangkan skenario hipotetis:
+
+    Organisasi: Lembaga keuangan menengah.
+    Model Ancaman: Advanced Persistent Threat (APT) yang menargetkan data keuangan.
+    Jenis Engagement: Emulasi Musuh.
+
+Menerapkan Komponen
+Menentukan Lingkup dan Tujuan
+
+    Lingkup: Fokus pada sistem perbankan inti organisasi, data pelanggan, dan infrastruktur transaksi keuangan.
+    Tujuan:
+        Mencapai pijakan permanen di jaringan.
+        Menyusup data keuangan bernilai tinggi.
+        Mengganggu operasi perbankan kritis.
+
+Aturan Keterlibatan (ROE)
+
+    Definisikan dengan jelas sistem dan data resmi untuk ditargetkan.
+    Larang penghancuran data atau penyebaran ransomware.
+    Tetapkan protokol komunikasi antar tim merah dan biru.
+    Uraikan prosedur respons insiden.
+
+Perencanaan Kampanye
+
+    Kembangkan rencana serangan multi-tahap yang mencerminkan taktik APT di dunia nyata.
+    Identifikasi vektor akses awal (misalnya, phishing, mengeksploitasi kerentanan).
+    Rencanakan mekanisme persistensi (misalnya, backdoors, implan).
+    Uraikan strategi eksfiltrasi data.
+
+Dokumentasi Keterlibatan
+
+    Buat rencana keterlibatan terperinci, termasuk garis waktu dan tanggung jawab.
+    Kembangkan template untuk penilaian kerentanan dan pengembangan eksploit.
+    Tetapkan proses untuk menangkap dan menganalisis indikator kompromi (IOC).
+
+Konsep Operasi (CONOP)
+
+    Uraikan tujuan keseluruhan mensimulasikan serangan APT.
+    Jelaskan struktur dan peran tim merah (misalnya, akses awal, persistensi, komando dan kontrol).
+    Definisikan saluran komunikasi dan prosedur eskalasi.
+
+Rencana Sumber Daya
+
+    Identifikasi personel yang diperlukan (misalnya, penguji penetrasi, analis).
+    Tentukan alat dan teknologi yang diperlukan (misalnya, kerangka kerja eksploitasi, infrastruktur C2).
+    Uraikan persyaratan infrastruktur (misalnya, lingkungan lab, sumber daya cloud).
+
+Rencana Misi
+
+    Kembangkan prosedur langkah demi langkah terperinci untuk setiap fase serangan.
+    Tetapkan tanggung jawab dan garis waktu untuk setiap tugas.
+    Buat rencana kontinjensi untuk tantangan yang tidak terduga.
+
+Kesimpulan
+
+    Analisis keefektifan keterlibatan dalam mencapai tujuan.
+    Identifikasi celah dalam pertahanan keamanan organisasi.
+    Berikan rekomendasi untuk meningkatkan postur keamanan.
+
+Pertimbangan Tambahan
+
+    Intelijen Ancaman: Gabungkan intelijen ancaman dunia nyata untuk meningkatkan realisme.
+    Interaksi Tim Biru: Berkoordinasi dengan tim biru untuk mensimulasikan lingkungan dinamis.
+    Pertimbangan Etis: Patuhi pedoman hukum dan etika selama keterlibatan.
+    Aktivitas Pasca Keterlibatan: Lakukan perburuan ancaman dan remediasi kerentanan berdasarkan temuan.
